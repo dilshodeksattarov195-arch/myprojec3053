@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "userdelete",
+        "uuid": 16052674,
+        "checksum": "o03nu"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
